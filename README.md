@@ -1,2 +1,2 @@
-# All-My-HL2RP-Gamemodes
+# All the HL2RP gamemodes I use/own
 Lol
